@@ -4,6 +4,7 @@
 #include <TF1.h>
 
 // Review of cpp pointers: https://www.howardsnotes.tw/cpp-pointer/
+// Pointer and reference https://www3.ntu.edu.sg/home/ehchua/programming/cpp/cp4_PointerReference.html
 // stack vs heap: https://courses.grainger.illinois.edu/cs225/sp2023/resources/stack-heap/
 // stack vs heap vs static: https://stackoverflow.com/questions/408670/stack-static-and-heap-in-c
 
